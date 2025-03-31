@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto do Número Secreto.
+# Olá, Bem vindo ao meu projeto do Número Secreto.
 
 ![image](https://raw.githubusercontent.com/Jbellottis/projeto-numero-secreto/refs/heads/main/img/print-pag.png)
 
