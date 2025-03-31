@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto do Número Secreto.
 
-![image]()
+![image](https://raw.githubusercontent.com/Jbellottis/projeto-numero-secreto/refs/heads/main/img/print-pag.png)
 
 ## Ferramentas utilizadas:
 
