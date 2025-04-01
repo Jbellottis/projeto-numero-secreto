@@ -2,7 +2,7 @@
 
 ![image](https://raw.githubusercontent.com/Jbellottis/projeto-numero-secreto/refs/heads/main/img/print-pag.png)
 
-Hospedando do projeto no [Vercel] (https://projeto-numero-secreto-gules.vercel.app/)
+Hospedando do projeto no [Vercel](https://projeto-numero-secreto-gules.vercel.app/).
 
 ## Ferramentas utilizadas:
 
